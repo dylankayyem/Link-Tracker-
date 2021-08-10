@@ -1,2 +1,2 @@
-# cautious-octo-robot
-Leads Tracker
+# Link Tracker - Chrome Extension
+Link Tracker
